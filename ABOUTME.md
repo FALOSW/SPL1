@@ -3,3 +3,8 @@
 * School: HTL Leoben
 * class: SPL
 * group: 3
+
+## Skills
+Skiing
+Playing Computergames
+Cycling
