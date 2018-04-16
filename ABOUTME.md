@@ -5,6 +5,11 @@
 * group: 3
 
 ## Skills
-Skiing
-Playing Computergames
-Cycling
+* Skiing
+* Playing Computergames
+* Cycling
+
+## Programming Skills
+* Java
+* Python
+* HTML
