@@ -1,4 +1,5 @@
-Name: Paul
-School: HTL Leoben
-class: SPL
-group: 3
+# About Me
+* Name: Paul
+* School: HTL Leoben
+* class: SPL
+* group: 3
